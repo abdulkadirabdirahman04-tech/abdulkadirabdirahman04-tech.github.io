@@ -1,1 +1,0 @@
-# abdulkadirabdirahman04.github.io
