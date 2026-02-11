@@ -8,11 +8,12 @@ Targeted Audiance: Kids and Teens (10-17)
 ## Installation
 Steps to install and run the project
 
-Usage
+
+##Usage
 Example of how to use the project 
 
 
 
 
-Authors
+##Authors
 Abdulkadir Abdirahman, Smit Patel
